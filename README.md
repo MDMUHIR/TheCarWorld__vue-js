@@ -2,7 +2,7 @@
 
 ## [Server:(https://github.com/MDMUHIR/TheLocalServer-for-theCarWorld)](https://github.com/MDMUHIR/TheLocalServer-for-theCarWorld)
 
-## to run the server use the command- npm run devStart
+## To run the server, use the command- npm run devStart
 
 
 ## Recommended IDE Setup
